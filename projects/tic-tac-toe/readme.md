@@ -1,5 +1,5 @@
 # This is a readme for Tic-tac-toe game 
-In this game we will play/responde to a computer's move .This will also uses  AI  concept in the process
+In this game we will play/responde to a computer's move .
 
 # ALgorithm 
 1)Input
